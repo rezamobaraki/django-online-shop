@@ -1,6 +1,6 @@
 # django-online-shop
 
-Hello friends of this [Mr.Rezoo](https://www.linkedin.com/in/mrrezoo/)
+Hello friends of this [Reza Mobaraki](https://www.linkedin.com/in/reza-mobaraki/)
 
 ## Table of contents
 
@@ -72,7 +72,7 @@ source venv/bin/activate
 
 ## Contributors
 
-* [MrRezoo](https://github.com/MrRezoo)
+* [rezamobaraki](https://github.com/rezamobaraki)
 
 ## License
 
